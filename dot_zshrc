@@ -147,3 +147,5 @@ alias fdn="fd --type d"
 
 # fzf
 source <(fzf --zsh)
+
+#test git
